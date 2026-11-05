@@ -1,0 +1,1158 @@
+{
+  "sourceSite": "https://edu.xgteacher.cn",
+  "retrievedAt": "2026-11-05T07:26:03.666Z",
+  "projects": [
+    {
+      "id": "caravan",
+      "sourcePage": "https://edu.xgteacher.cn/works/work-c475bc82ec17",
+      "coverUrl": "https://works.xgteacher.cn/media/covers/c475bc82-ec17-4a95-af55-fbeba4986ac8/fdad6271-0233-473f-a65b-5c3ecc5dcc23.png",
+      "previewCount": 6,
+      "records": [
+        {
+          "sequence": 1,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/d2e4887c-bc49-45e2-abda-0b3d8efa803c/1795c9df-ee8d-4712-a9cb-3e6b69491118.jpg",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/d2e4887c-bc49-45e2-abda-0b3d8efa803c/ef932ac4-3264-4cd9-8113-1ffeb4f45d58.jpg",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/d2e4887c-bc49-45e2-abda-0b3d8efa803c/62e134da-fa5f-48f0-b467-acca65bda01b.jpg",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 2,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/eb32e882-6ce6-41cc-a06b-0f973bd6dcef/1b2dee62-32e0-4cdc-8ba2-c7b4afe24886.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/eb32e882-6ce6-41cc-a06b-0f973bd6dcef/045a6c83-7500-414a-a35a-455c80bb52ee.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/eb32e882-6ce6-41cc-a06b-0f973bd6dcef/07a9e175-2775-4d6e-9013-5d14ba212b0c.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/eb32e882-6ce6-41cc-a06b-0f973bd6dcef/07c226a4-8129-418e-b60e-ad98b3b35d5e.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 3,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/e92217ac-9b86-468a-b93f-e3f6e21c7173/1376e9a3-3202-4ddf-b8f2-4995d46b0f91.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/e92217ac-9b86-468a-b93f-e3f6e21c7173/7221fcfa-2e20-48e1-a6e8-b350a287dd5c.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/e92217ac-9b86-468a-b93f-e3f6e21c7173/57b1ead7-02b4-423b-ae0b-8917c9c5429d.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/e92217ac-9b86-468a-b93f-e3f6e21c7173/3cae66b6-7599-4eb1-b7ac-8ec1349d8e62.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/e92217ac-9b86-468a-b93f-e3f6e21c7173/4e2fcd3b-d191-42ca-b7bb-d69887d935e8.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 4,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/ab9b0614-fa38-4a05-993b-46f0d1c1e927/39c4958b-c565-44cf-918f-17c2ecd2613b.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/ab9b0614-fa38-4a05-993b-46f0d1c1e927/1261118b-2bec-4408-ac0f-a5b12358d5bd.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/ab9b0614-fa38-4a05-993b-46f0d1c1e927/1c155314-347b-4fab-8d53-4546c056da5b.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/ab9b0614-fa38-4a05-993b-46f0d1c1e927/d3457670-581a-4100-8390-64147c9fa143.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 5,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/f035374e-725f-4bd0-95ba-ec1c4f30e569/d0325e8a-3ca5-406d-a6ae-e13d0026aac8.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/f035374e-725f-4bd0-95ba-ec1c4f30e569/92d434b3-0ee1-41fb-ac12-9d180df059ca.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/f035374e-725f-4bd0-95ba-ec1c4f30e569/4d3a6f7f-15bb-445d-8cb5-deea91774327.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 6,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/9c2a8180-db85-4114-a8a5-632556300708/90dae96c-f8ef-49c8-a45c-89a03ac5b01b.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/9c2a8180-db85-4114-a8a5-632556300708/d91b3929-4bad-4980-bbd4-7155afbe0d15.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/9c2a8180-db85-4114-a8a5-632556300708/104f9940-9600-4331-ade2-d37547a2e01c.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/9c2a8180-db85-4114-a8a5-632556300708/96ed6531-6144-4b33-93ff-9067007fb162.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 7,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/2a60b09e-7bb3-46fd-bbc6-196d44a0eee9/62ff9028-ad5b-46a6-a0a9-111bb04bc015.png",
+              "isCover": true
+            }
+          ]
+        },
+        {
+          "sequence": 8,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/d4aeffb9-a143-4bf7-a721-bcabad37c208/c613d36f-f31d-4037-b11c-d3682912068f.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/d4aeffb9-a143-4bf7-a721-bcabad37c208/040941aa-b7c7-44b1-8824-b2f9258017bc.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/d4aeffb9-a143-4bf7-a721-bcabad37c208/7cc0f7b8-a191-4dfc-b65b-3efbc4bff85a.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 9,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/56c075e5-b535-46e4-ae57-bb9005b23470/96669497-70b7-4cc9-9da5-b3f5d5bda703.png",
+              "isCover": true
+            }
+          ]
+        },
+        {
+          "sequence": 10,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/04da0083-65ec-4f45-80ab-685e33ce8b41/8644d19b-ff6b-4bf5-b52b-e928775f39fd.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/04da0083-65ec-4f45-80ab-685e33ce8b41/bced1a04-c3b9-486e-b1e1-ab55862f1812.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/04da0083-65ec-4f45-80ab-685e33ce8b41/b08b6eee-637f-4377-9325-1a2e20e3a40c.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/04da0083-65ec-4f45-80ab-685e33ce8b41/273c41cd-4dd2-4619-96b8-5a7ea6c3a173.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 11,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/ad5b2bcb-02c9-40ae-8173-d99ba4e6fced/9cdc842f-6049-45b7-b501-b29f492bcfb5.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/ad5b2bcb-02c9-40ae-8173-d99ba4e6fced/1acbe5e8-4e86-42b7-a2a2-dcab6b7b6e4f.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 12,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/c475bc82-ec17-4a95-af55-fbeba4986ac8/7ea82dc5-8c1c-4600-939e-332d38772c5c/2b266857-6b43-4c2a-ac6e-c953427be650.png",
+              "isCover": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fencing",
+      "sourcePage": "https://edu.xgteacher.cn/works/work-f9d155f89d18",
+      "coverUrl": "https://works.xgteacher.cn/media/covers/f9d155f8-9d18-4ba4-8333-4ef1846852ce/4c366158-7686-4842-ba37-f6de578cee80.jpg",
+      "previewCount": 4,
+      "records": [
+        {
+          "sequence": 1,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/acfa306b-9b0c-47dc-86f1-fca3152b089c/523aceab-e225-40c8-9a1b-086441635a10.jpg",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/acfa306b-9b0c-47dc-86f1-fca3152b089c/0496d78e-5932-4374-acbb-c158f222dd37.jpg",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/acfa306b-9b0c-47dc-86f1-fca3152b089c/2eca47b1-9b07-4921-88e2-9a85c5a43237.jpg",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/acfa306b-9b0c-47dc-86f1-fca3152b089c/64ecdafa-965e-4a32-8744-34a7353b9368.jpg",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/acfa306b-9b0c-47dc-86f1-fca3152b089c/187d1da8-ae69-4e6a-9402-552b00cdf1db.jpg",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 2,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/67a957cf-ecab-4f5f-a9b1-9e4a8d36213b/730bf400-3efd-4b53-b608-d0a37cf45b2f.jpg",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/67a957cf-ecab-4f5f-a9b1-9e4a8d36213b/abe96f0e-b11b-41bb-b925-671123c2f093.jpg",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/67a957cf-ecab-4f5f-a9b1-9e4a8d36213b/90777a58-e150-4d6f-814c-c49358084a32.jpg",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 3,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/61161f07-7b79-4702-a06f-021b290f9c97/1da9793a-eb19-47ee-8390-57e6c5a2459b.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/61161f07-7b79-4702-a06f-021b290f9c97/ba9863e6-d84b-40dc-b87b-1651464baacc.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/61161f07-7b79-4702-a06f-021b290f9c97/6158a8b3-c821-4ee3-8335-feacb0294b2f.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/61161f07-7b79-4702-a06f-021b290f9c97/a275fdf9-8aae-4b8b-84a6-14b616537fb9.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 4,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/38049380-8942-4484-a89c-196152ba8a35/b9502786-3c62-4dac-a370-f0bda7072055.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/38049380-8942-4484-a89c-196152ba8a35/dca16dfb-9ee5-47aa-ad6c-d7113cd1a80d.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/38049380-8942-4484-a89c-196152ba8a35/eeb73062-9bb7-4012-9b42-051229e5c6d5.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/38049380-8942-4484-a89c-196152ba8a35/22febdbd-aeee-4bcd-ba60-8a931868ff91.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 5,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/b379749b-7409-42f0-bcb2-a0099057774f/cd274c4c-2227-484a-b418-f9bbfbb8946a.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/b379749b-7409-42f0-bcb2-a0099057774f/878b1108-7ac9-43cd-a628-bf352128563f.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 6,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/084565dc-1714-4932-bac7-ce1ad92b5539/894f5538-0dce-4494-86fd-e8b7590a287e.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/084565dc-1714-4932-bac7-ce1ad92b5539/a2488cdb-842f-4a4f-8f16-e260e255ca7c.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/084565dc-1714-4932-bac7-ce1ad92b5539/2f9092bd-ddf5-4955-8a6b-cb998acb4b0b.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/084565dc-1714-4932-bac7-ce1ad92b5539/3373e9cb-edc9-4ad3-839e-f3974d0ddcae.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/084565dc-1714-4932-bac7-ce1ad92b5539/f1b513ac-681d-4853-a414-037338fdfcc1.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 7,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/8c81eb2c-a035-4586-8d04-862f6b133f05/03c73663-5f6b-4106-a6e1-095ee646e485.jpg",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/8c81eb2c-a035-4586-8d04-862f6b133f05/be09b97e-e6f7-4fd6-a887-67dedc9d7458.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/8c81eb2c-a035-4586-8d04-862f6b133f05/4ecc2a8c-7313-4caa-9f1c-8177fc4242f1.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/8c81eb2c-a035-4586-8d04-862f6b133f05/5be0585c-e048-4453-bb27-b370ceeeb208.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 8,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/a3dd6ed0-fd07-448e-bf8d-ddbc3785f500/07b5d765-231a-4ace-b9b1-6544d480e9aa.png",
+              "isCover": true
+            }
+          ]
+        },
+        {
+          "sequence": 9,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/614da742-5bde-45c0-a3d1-853e50659965/4232ad07-8544-450e-8894-4d7dd478f000.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/614da742-5bde-45c0-a3d1-853e50659965/dbce14cf-2fb7-4132-b056-53fd4380c015.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 10,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/f9d155f8-9d18-4ba4-8333-4ef1846852ce/1333915d-318d-413c-8866-c2328633f04e/db22d95f-5436-49db-8362-fd5662cdbfd0.jpg",
+              "isCover": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mech",
+      "sourcePage": "https://edu.xgteacher.cn/works/work-a86a61359f94",
+      "coverUrl": "https://works.xgteacher.cn/media/covers/a86a6135-9f94-42a6-962c-7da9028dc06f/0cf5a3ba-af78-4988-9196-58371646d4da.png",
+      "previewCount": 10,
+      "records": [
+        {
+          "sequence": 1,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/6e46a705-45ef-4ec7-a8f6-09029cdc6b72/eb920a3b-0708-4d42-a332-63a8c6f90b79.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/6e46a705-45ef-4ec7-a8f6-09029cdc6b72/4d1061da-68a3-434c-9220-50dd7eab5b38.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/6e46a705-45ef-4ec7-a8f6-09029cdc6b72/265811eb-797e-4adc-aeb9-ce400954d25c.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 2,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/db5922cb-4099-4ca6-8864-1d067c636b14/8be6fe95-4868-4621-af91-3b253a91d3f2.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/db5922cb-4099-4ca6-8864-1d067c636b14/54d975e4-6daa-4dbd-b8d8-a3467a9f617c.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/db5922cb-4099-4ca6-8864-1d067c636b14/bbb47ad0-73ad-4307-bd37-8fa7537aa5f5.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 3,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/8a09da32-499f-4a93-99ba-e660f449c622/1c3e2f13-d312-44a3-b858-3f09da099a3d.jpg",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/8a09da32-499f-4a93-99ba-e660f449c622/4d75f58a-c112-41b9-8e2e-fc5780d445dc.jpg",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/8a09da32-499f-4a93-99ba-e660f449c622/58ce13e3-05cf-47c7-bd4f-d23e6ac62a76.jpg",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 4,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/4ac8ec9d-f69d-43f6-8e2c-b02893eb8fdc/859bc59e-37d6-45b6-a3d9-0d5715b8b8d2.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/4ac8ec9d-f69d-43f6-8e2c-b02893eb8fdc/17933e84-1f6c-42f5-be6a-7f43d884470a.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/4ac8ec9d-f69d-43f6-8e2c-b02893eb8fdc/44cb690a-53f1-47b8-a933-7904c0d60d48.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/4ac8ec9d-f69d-43f6-8e2c-b02893eb8fdc/b376eea4-d685-4d30-ba45-9bc0e169d43d.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 5,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/3c84fb6c-51a4-4cca-bbb7-4755ca32e876/fc978198-31e7-49ee-ae6d-47af21908507.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/3c84fb6c-51a4-4cca-bbb7-4755ca32e876/ed668c34-03f4-4e04-8578-10788ee75e04.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/3c84fb6c-51a4-4cca-bbb7-4755ca32e876/eaef16b2-b0c7-4a06-95f5-9517acd53f5e.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 6,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/1da9e190-f075-4857-baee-a68e0694b829/67fa9a9a-4d4a-4a4d-833f-3f4454df6207.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/1da9e190-f075-4857-baee-a68e0694b829/690c9432-4ead-463b-9f78-6758ae5e08ba.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/1da9e190-f075-4857-baee-a68e0694b829/f4785dd4-072b-43bf-a202-1f2976327f20.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/1da9e190-f075-4857-baee-a68e0694b829/fe12158d-204c-4692-9b50-6b71f6341b9f.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 7,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/de32571b-2ce7-4749-b140-5ea18d978139/96d95e4f-f0fc-47d8-8b0f-bda4f171b515.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/de32571b-2ce7-4749-b140-5ea18d978139/1fd69de7-15c0-49f2-9bed-d7a9b9d6503d.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/de32571b-2ce7-4749-b140-5ea18d978139/10c78be4-e7d3-420b-97e2-1d59ac6d7807.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 8,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/18b10c51-5783-4604-a2e9-b450160aedc4/1326b7e2-7b60-4ae9-ab55-2f61bbcc81f4.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/18b10c51-5783-4604-a2e9-b450160aedc4/8fc88900-68e7-491e-a111-4e16b4c35676.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/18b10c51-5783-4604-a2e9-b450160aedc4/76aef154-14d0-4d25-a914-a12352454bf4.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/18b10c51-5783-4604-a2e9-b450160aedc4/d555906a-a508-4ea4-b2a8-94e1a11922dd.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/18b10c51-5783-4604-a2e9-b450160aedc4/04428ec8-4bf3-46ea-80a2-8f4500b0dc90.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 9,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/4ef35255-8c68-4f0b-b6bf-d35c5ef1e38e/7315dec8-87f8-4074-9e9a-e96921fae1fe.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/4ef35255-8c68-4f0b-b6bf-d35c5ef1e38e/851236b4-0ed6-42c5-acee-6fb4e6c2af2e.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/4ef35255-8c68-4f0b-b6bf-d35c5ef1e38e/c9e28e57-a7ae-4c17-ba6a-9c85efc84d58.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 10,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/6ed76506-abf8-4f4b-bc41-08ce09d00203/1cb78f21-9b14-4fa1-9a47-d2818428dbe4.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/6ed76506-abf8-4f4b-bc41-08ce09d00203/8144cc65-1734-45ec-9b3c-d21979eda445.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/6ed76506-abf8-4f4b-bc41-08ce09d00203/1a58d5ca-1892-4747-93e6-3b4bcb83e0f6.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/6ed76506-abf8-4f4b-bc41-08ce09d00203/173dcd0d-32e3-4284-b1b3-5d7c63580cc7.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/6ed76506-abf8-4f4b-bc41-08ce09d00203/2405ecb2-b241-494b-b902-c4e8436b8046.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 11,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/e83a8037-ad3a-406d-9650-5ee706c4f971/86bf2669-b8bf-42b1-b210-27e148171bbc.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/e83a8037-ad3a-406d-9650-5ee706c4f971/1fb58ddc-76ee-448a-8b22-881550f745e4.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/e83a8037-ad3a-406d-9650-5ee706c4f971/b3cad0a0-18ad-4a57-9464-7028542ad4d2.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 12,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/44c62fc6-cbc6-4e79-9905-bd2db6cff919/a51d1356-0bd3-4795-a548-79d00d056b8a.png",
+              "isCover": true
+            }
+          ]
+        },
+        {
+          "sequence": 13,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a86a6135-9f94-42a6-962c-7da9028dc06f/7cc1ba15-245c-4485-a2a6-874620ede937/4b39e232-6e0a-47de-9d62-b93237c2222f.png",
+              "isCover": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "racing",
+      "sourcePage": "https://edu.xgteacher.cn/works/work-a79baacc3c3d",
+      "coverUrl": "https://works.xgteacher.cn/media/covers/a79baacc-3c3d-4741-9226-2f4e880435eb/f4b1f139-29cb-461f-9ea9-8248b1af2b15.png",
+      "previewCount": 4,
+      "records": [
+        {
+          "sequence": 1,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/cb9eb79f-b53a-41be-aa68-9997f7177058/2a66c5cd-2f80-41cb-b04c-79bc6bfca794.jpg",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/cb9eb79f-b53a-41be-aa68-9997f7177058/7f0b092f-49c0-4a75-9db9-d10aaeed73b6.jpg",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/cb9eb79f-b53a-41be-aa68-9997f7177058/92435126-c2e2-4067-b40e-4541f6021fb4.jpg",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/cb9eb79f-b53a-41be-aa68-9997f7177058/744d570a-d100-4d06-bdd1-92a3b9b065d1.jpg",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/cb9eb79f-b53a-41be-aa68-9997f7177058/d31f714a-2abe-49a3-9b04-bca6d5dfd93b.jpg",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/cb9eb79f-b53a-41be-aa68-9997f7177058/f8c8f981-e2c9-4ef7-9bbf-6da24896edfa.jpg",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 2,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/dd67befc-549c-485d-8b12-bc2c8acfdf57/32404d86-a558-4812-8662-0332a4905bf0.jpg",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/dd67befc-549c-485d-8b12-bc2c8acfdf57/49f847bd-d67b-45ec-bba4-b4852332a948.jpg",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/dd67befc-549c-485d-8b12-bc2c8acfdf57/beeb9e4c-a6ae-4469-a5c6-b9d6f5308d9a.jpg",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/dd67befc-549c-485d-8b12-bc2c8acfdf57/0db76a79-587f-4bae-ae9f-f3af5dbeb648.jpg",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/dd67befc-549c-485d-8b12-bc2c8acfdf57/8f01143a-7a5e-4f12-a68e-7aa07df0f00d.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/dd67befc-549c-485d-8b12-bc2c8acfdf57/c529f8e9-9795-4cb8-8fff-514b5b86c6a4.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 3,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/2c064f72-319b-481c-9434-0dde2d6bfc50/0584e8b7-5b91-49ec-95df-2dddb938b356.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/2c064f72-319b-481c-9434-0dde2d6bfc50/2fd404e3-71a0-419a-9504-f7c282d62b25.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/2c064f72-319b-481c-9434-0dde2d6bfc50/670ddc48-245b-48dc-9602-63d3e26faaa3.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/2c064f72-319b-481c-9434-0dde2d6bfc50/c0a731c2-d3da-4185-9f37-2be441ac4c1b.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/2c064f72-319b-481c-9434-0dde2d6bfc50/2bd9014c-f8ee-4e14-ad37-accc4573dc98.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 4,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/8d0996b6-da8b-4b53-a524-b59ffc25bdef/a3c998bc-8e76-478a-9b9d-e5a4643bf555.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/8d0996b6-da8b-4b53-a524-b59ffc25bdef/98c7902d-5cc7-4690-a2fe-5e7bf0823454.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/8d0996b6-da8b-4b53-a524-b59ffc25bdef/70be4f2f-244d-472b-8b3c-478a4588259b.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 5,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/0041b986-052f-474c-ad85-61b5413a3f6c/31251147-7a88-41d9-9175-981e9da957b2.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/0041b986-052f-474c-ad85-61b5413a3f6c/6ec6822c-546f-4277-b7c9-582f3cba4c57.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/0041b986-052f-474c-ad85-61b5413a3f6c/e83bfc29-adc3-43c8-8bd7-204cf85f04a5.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/0041b986-052f-474c-ad85-61b5413a3f6c/509a4ebe-a3ec-4c3f-be7e-41d903356b97.jpg",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 6,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/75343c02-eaa3-4b8b-8fe5-1b723ff228e3/aa5ac721-b1c4-4fbb-a8fb-0e59f4cb855c.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/75343c02-eaa3-4b8b-8fe5-1b723ff228e3/20e84ed6-796e-4364-b3c9-07dc22ef6639.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/75343c02-eaa3-4b8b-8fe5-1b723ff228e3/4ae23a2b-2f1f-470f-8070-b586fb33d92d.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 7,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/c19830c7-af9b-4103-bf8b-5dbac721dce9/607429e6-9d9b-42b9-ad7d-a5706fa7dd23.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/c19830c7-af9b-4103-bf8b-5dbac721dce9/13fc681e-5c63-40a1-b2f2-14ff31164c14.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/c19830c7-af9b-4103-bf8b-5dbac721dce9/4e455afe-24df-4c8d-83c0-95acc5c42c6f.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 8,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/240d645e-e03a-4d3b-8c16-041ca7e54157/82b1b8ab-4ea3-41f0-8535-97dcfd66a8d3.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/240d645e-e03a-4d3b-8c16-041ca7e54157/465208fb-703a-4775-925b-12b1ad558691.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 9,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/777b5bfb-455b-4d04-8b6e-37529376a05a/7e85be82-0cd3-40d3-acbb-585e88741fd0.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/777b5bfb-455b-4d04-8b6e-37529376a05a/730f274f-2829-4d4a-810a-72506b74082f.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 10,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/01c6716f-52f0-4bcc-a037-594a97175393/cf7cb9f8-20a9-459d-8553-34706284edef.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/01c6716f-52f0-4bcc-a037-594a97175393/dca8405b-889e-4146-b173-922798d76632.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/01c6716f-52f0-4bcc-a037-594a97175393/e26f093c-a3ef-4b8f-9cc6-803f304bbcc3.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 11,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/77b44c8d-439e-402a-aa85-8ee6a6a8e8aa/93c5fa44-6531-44ed-881c-efc93fa664ad.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/77b44c8d-439e-402a-aa85-8ee6a6a8e8aa/4b9c4ee7-8198-43af-a112-b50c519c6af3.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/77b44c8d-439e-402a-aa85-8ee6a6a8e8aa/f3d9ca5c-885e-4000-94e9-854db92150c4.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 12,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/3d336c7f-e9e5-41ef-aae3-8b763d8324b5/dea3d859-7eab-46ad-9d36-7aac51df0371.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/3d336c7f-e9e5-41ef-aae3-8b763d8324b5/6a5ab3c2-16e9-4409-a965-1bfe1f610fe6.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/3d336c7f-e9e5-41ef-aae3-8b763d8324b5/1d3e2bbb-72b1-4547-a49a-2ab0c499e45d.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/3d336c7f-e9e5-41ef-aae3-8b763d8324b5/4add378e-88e3-4011-96eb-512d6b08fe73.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 13,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/01ada47c-1b0c-40cd-ba68-89f89f194cc6/42f5ad28-baec-400e-9994-6374310de271.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/01ada47c-1b0c-40cd-ba68-89f89f194cc6/a4c378de-b865-437f-90b9-ce725b3bf8ac.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/01ada47c-1b0c-40cd-ba68-89f89f194cc6/40f0b51d-95f1-46b6-acf3-d57c534c48f8.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/01ada47c-1b0c-40cd-ba68-89f89f194cc6/cb92917b-2274-4b6c-993f-8ad861841253.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 14,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/a31703a8-b8d6-4acf-afda-714d1381afa7/d9aeb41c-c12b-490d-90c6-f626dc90ce83.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/a31703a8-b8d6-4acf-afda-714d1381afa7/3024f218-dfb5-4540-8aac-87d5967b0bcc.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/a31703a8-b8d6-4acf-afda-714d1381afa7/035e8255-5376-41c3-9240-08aef4a31bb7.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 15,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/347da9e5-d0a2-467d-ba97-ec7cf4d86c6c/cdff5056-b3a0-4605-b709-b68eff682a88.jpg",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/347da9e5-d0a2-467d-ba97-ec7cf4d86c6c/cd4fd464-9de1-472b-b6ae-5a7da726e16f.jpg",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 16,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/adee3c68-d3b4-4fe1-b964-8f07722ef522/035be6c3-6809-4436-a125-2e85671bc2cd.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/adee3c68-d3b4-4fe1-b964-8f07722ef522/37c9baec-8e6c-4822-8ccf-ba771c3d5c6d.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 17,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/b637a524-c098-4a48-b0e9-be920cd03b5c/e24058d5-c889-4149-aeb4-4323f915249b.png",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/b637a524-c098-4a48-b0e9-be920cd03b5c/6dae3ca1-08c6-49ab-a8ca-d60c150f7030.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 18,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/a79baacc-3c3d-4741-9226-2f4e880435eb/f8a327cc-16ca-4c89-af04-ea1d87c7df80/21de8bec-04e2-4fae-a4ed-7cfe1d84e836.png",
+              "isCover": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maze",
+      "sourcePage": "https://edu.xgteacher.cn/works/work-0a64a48f2509",
+      "coverUrl": "https://works.xgteacher.cn/media/covers/0a64a48f-2509-4698-9656-27adcbcbc565/c9bf4e08-ce07-426a-9c38-8f2e5af29a0a.png",
+      "previewCount": 4,
+      "records": [
+        {
+          "sequence": 1,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/0caead30-cb1e-4d94-a676-b28bd4034662/f5e7acd8-c1af-4a31-aeb7-815476644a93.jpg",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/0caead30-cb1e-4d94-a676-b28bd4034662/bf00cfd1-bf8a-4e7c-b3c4-cd03210577c1.jpg",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 2,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/756a6306-31bd-4f74-a0e1-344cde5f6088/3ad5d98c-7cce-4e9a-90e6-68b9ed74f32b.jpg",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/756a6306-31bd-4f74-a0e1-344cde5f6088/87456896-d147-485c-9d29-4bfe1896bbda.jpg",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/756a6306-31bd-4f74-a0e1-344cde5f6088/17966062-1bda-49a7-b127-61284b3b9908.jpg",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 3,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/0601c09c-6f89-4a84-b3de-a3668e18ef76/eec095c6-202f-4bee-867c-dac9feedbdf4.jpg",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/0601c09c-6f89-4a84-b3de-a3668e18ef76/8aeb6be8-eac7-4fb5-a452-46a302561e60.jpg",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/0601c09c-6f89-4a84-b3de-a3668e18ef76/716baff3-818b-4281-8308-2d6e7d18efed.jpg",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 4,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/e5535947-24b2-40c3-81e7-5d0c68a19459/d7b55ed3-b1e1-408b-ad64-ace2500216ee.jpg",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/e5535947-24b2-40c3-81e7-5d0c68a19459/059810d6-61a7-469b-8bb6-1e4b457b1cc6.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/e5535947-24b2-40c3-81e7-5d0c68a19459/f56ae1f7-4778-4e46-977e-fd19921841fd.png",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/e5535947-24b2-40c3-81e7-5d0c68a19459/105db847-7d7c-4dca-aa09-0cae4387e1dc.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 5,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/86777b66-9d76-42dd-a991-f47634641064/d8cf06a1-5b56-4dbb-b6c9-e468bc1970d8.jpg",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/86777b66-9d76-42dd-a991-f47634641064/ff21d6fc-7b20-43aa-9653-ca6e9f808310.jpg",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/86777b66-9d76-42dd-a991-f47634641064/d4dac6f3-55f9-4283-a2f5-60f3c7801d73.jpg",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 6,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/da29568d-d863-48e5-8161-10499989a793/6414791f-dcde-4298-960b-3fb6e8eaef9d.jpg",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/da29568d-d863-48e5-8161-10499989a793/825843df-afe9-401e-96d9-a60fc62fd8c0.jpg",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/da29568d-d863-48e5-8161-10499989a793/94a50a1b-a4b5-4dbd-aaca-59561639b09f.jpg",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/da29568d-d863-48e5-8161-10499989a793/fe3d24cd-4cb8-4213-9fe6-2f035b8dd0a4.jpg",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 7,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/54f941de-e96e-4ba0-aeea-d778be944ebc/2f1896cd-1ea0-4b50-8eea-f57f8a748b26.jpg",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/54f941de-e96e-4ba0-aeea-d778be944ebc/3877678a-e297-4e41-bc14-0ec8c850ed3f.png",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 8,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/b89435e6-23c1-458b-9af4-df0807095c49/09e12cc1-5e0a-4aee-bfaf-8911deb0f125.jpg",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/b89435e6-23c1-458b-9af4-df0807095c49/8ba2b54b-af27-420f-9b21-b3b747573338.jpg",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/b89435e6-23c1-458b-9af4-df0807095c49/c573a000-e448-42db-b2e0-13f6b089d08e.jpg",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/b89435e6-23c1-458b-9af4-df0807095c49/2645166a-2977-47fa-a986-9ba43c35e4b0.jpg",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 9,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/8c48b100-b46f-4788-a599-40949ee75f65/eac6afc0-7121-4163-94cb-8c5c05c3f5e8.jpg",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/8c48b100-b46f-4788-a599-40949ee75f65/dbf27084-2af5-4c4f-a92f-febbb09e4bd0.jpg",
+              "isCover": false
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/8c48b100-b46f-4788-a599-40949ee75f65/9c2d6792-7091-46e1-9dab-b600473c37c1.jpg",
+              "isCover": false
+            }
+          ]
+        },
+        {
+          "sequence": 10,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/86ea849c-a8d8-40f3-b177-81ee31ff63e1/4d41fcc5-7106-40f8-afa8-598937cd56ac.jpg",
+              "isCover": true
+            },
+            {
+              "url": "https://works.xgteacher.cn/media/records/0a64a48f-2509-4698-9656-27adcbcbc565/86ea849c-a8d8-40f3-b177-81ee31ff63e1/08f7ef75-4623-4565-8f7f-162d29ffae83.jpg",
+              "isCover": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "formation",
+      "sourcePage": "https://edu.xgteacher.cn/works/work-57b7dea2a05e",
+      "coverUrl": "https://works.xgteacher.cn/media/covers/57b7dea2-a05e-4f67-9ed9-19b47bc0bda5/0df250aa-775f-416f-ba77-820aa326fa56.png",
+      "previewCount": 4,
+      "records": [
+        {
+          "sequence": 1,
+          "images": [
+            {
+              "url": "https://works.xgteacher.cn/media/records/57b7dea2-a05e-4f67-9ed9-19b47bc0bda5/c2c27cc8-11d2-4d82-9486-bb0b0f5b7430/5965a067-571c-4b79-9430-2c5999f3837c.png",
+              "isCover": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

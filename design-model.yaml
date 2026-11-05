@@ -1,0 +1,29 @@
+product: AI 创造营
+register: brand
+palette:
+  ground: "#fbfbfd"
+  surface: "#f5f5f7"
+  ink: "#1d1d1f"
+  muted: "#6b6b71"
+  action: "#0066cc"
+  dark_section: "#182431"
+typography:
+  family: Camp Sans (Noto Sans SC local subset)
+  weights: [400, 500, 550, 600, 650]
+  body: 16px
+  display: fluid 46–100px
+layout:
+  max_width: 1200px
+  hero_art_radius: 18px
+  archive_radius: 0px
+  archive_structure: open rows and image timeline
+  nav_height_desktop: 72px
+  nav_height_mobile: 64px
+motion:
+  fast: 180ms
+  state: 300ms
+  composition: 700ms
+  spring_stiffness: 220
+  spring_damping: 25
+  reduced_motion: static terminal states
+assets: local illustrative covers and reference crops, explicitly labeled sample records
